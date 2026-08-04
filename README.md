@@ -1,3 +1,2 @@
 # QoLReKindleTools
-A bunch of QoL tools for the site
-feel free to contribute.
+A bunch of QoL tools for the site, feel free to contribute if you have something
